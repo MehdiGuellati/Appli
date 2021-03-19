@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
 
         <title>Ajout produit</title>
     </head>
@@ -31,6 +32,8 @@
             <p>
                 <input type="submit" name="submit" value="Ajouter le produit">
             </p>
+
+            <img src="produit.png" alt="produit">
         </form>
 
     </body>
